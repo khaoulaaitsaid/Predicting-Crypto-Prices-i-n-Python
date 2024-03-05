@@ -1,1 +1,1 @@
-# Predicting-Crypto-Prices-i-n-Python
+# Predicting-Crypto-Prices-in-Python
